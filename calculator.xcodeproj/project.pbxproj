@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		E184319A1C367D7700588C93 /* Minecraft.ttf in Resources */ = {isa = PBXBuildFile; fileRef = E18431991C367D7700588C93 /* Minecraft.ttf */; };
 		E18B36331C33DB500042AFAE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E18B36321C33DB500042AFAE /* AppDelegate.swift */; };
 		E18B36351C33DB500042AFAE /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E18B36341C33DB500042AFAE /* ViewController.swift */; };
 		E18B36381C33DB500042AFAE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E18B36361C33DB500042AFAE /* Main.storyboard */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		E18431991C367D7700588C93 /* Minecraft.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Minecraft.ttf; sourceTree = "<group>"; };
 		E18B362F1C33DB500042AFAE /* calculator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = calculator.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E18B36321C33DB500042AFAE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		E18B36341C33DB500042AFAE /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -54,6 +56,7 @@
 		E18B36311C33DB500042AFAE /* calculator */ = {
 			isa = PBXGroup;
 			children = (
+				E18431991C367D7700588C93 /* Minecraft.ttf */,
 				E18B36321C33DB500042AFAE /* AppDelegate.swift */,
 				E18B36341C33DB500042AFAE /* ViewController.swift */,
 				E18B36361C33DB500042AFAE /* Main.storyboard */,
@@ -125,6 +128,7 @@
 			files = (
 				E18B363D1C33DB500042AFAE /* LaunchScreen.storyboard in Resources */,
 				E18B363A1C33DB500042AFAE /* Assets.xcassets in Resources */,
+				E184319A1C367D7700588C93 /* Minecraft.ttf in Resources */,
 				E18B36381C33DB500042AFAE /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -285,6 +289,7 @@
 				E18B36431C33DB500042AFAE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
